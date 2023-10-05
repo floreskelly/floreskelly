@@ -1,6 +1,6 @@
 
 
-### 🦋 ✨ About Me:
+## 🦋 ✨ About Me:
 - 🐞 QA automation passionate about learning and professional growth.
 - 👩🏽‍💻 I’m currently working on Csystems startup as Founder
 - 🍀 I’m currently learning about UI/UX and frontend development
@@ -8,11 +8,10 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kely_florest/) 
-[![Gmail](https://img.shields.io/badge/Instagram-%EA4335.svg?logo=Gmail&logoColor=white)](kelyflores.bo@gmail.com) 
+[![Gmail](https://img.shields.io/badge/Gmail-%EA4335.svg?logo=Gmail&logoColor=white)](kelyflores.bo@gmail.com) 
 
----
 
-# 🤖🎨 Technologies:
+## 🤖🎨 Technologies:
  ![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?style=plastic&logo=Postman&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-Selenium-2543B02A.svg?style=plastic&logo=Selenium&logoColor=white)
  ![Cypress](https://img.shields.io/badge/-Cypress-17202C.svg?style=plastic&logo=Cypress&logoColor=white)
@@ -29,7 +28,7 @@
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
  
 
-# 📊 GitHub Stats:
+## GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kelyflorest&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kelyflorest&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kelyflorest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
