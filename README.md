@@ -2,8 +2,7 @@
 
 ## 🦋 ✨ About Me:
 - 🐞 QA automation passionate about learning and professional growth.
-- 👩🏽‍💻 I’m currently working on Csystems startup as Founder
-- 🍀 I’m currently learning about UI/UX and frontend development
+- 👩🏽‍💻 I’m currently learning about UI/UX and frontend development
 - ☕ I’m looking to collaborate on social projects
 
 kelyflores.bo@gmail.com <br><br>
