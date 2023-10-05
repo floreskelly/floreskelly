@@ -19,12 +19,6 @@ kelyflores.bo@gmail.com <br><br>
  ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=plastic&logo=git&logoColor=white)
  ![Java](https://img.shields.io/badge/-Java-23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
- ![HTML5](https://img.shields.io/badge/-html5-23E34F26.svg?style=plastic&logo=html5&logoColor=white) 
- ![CSS3](https://img.shields.io/badge/-css3-231572B6.svg?style=plastic&logo=css3&logoColor=white) 
- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6.svg?style=plastic&logo=typescript&logoColor=white) 
- ![Firebase](https://img.shields.io/badge/-Firebase-23039BE5.svg?style=plastic&logo=firebase) 
- ![Angular](https://img.shields.io/badge/-Angular-DD0031.svg?style=plastic&logo=angularjs&logoColor=white)  
- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white)
  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
  
 
