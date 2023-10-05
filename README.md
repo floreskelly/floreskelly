@@ -6,9 +6,9 @@
 - 🍀 I’m currently learning about UI/UX and frontend development
 - ☕ I’m looking to collaborate on social projects
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kely_florest/) 
-[![Gmail](https://img.shields.io/badge/Gmail-%EA4335.svg?logo=Gmail&logoColor=white)](kelyflores.bo@gmail.com) 
+kelyflores.bo@gmail.com <br><br>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kely_florest/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kely_florest)
 
 
 ## 🤖🎨 Technologies:
