@@ -13,7 +13,6 @@ kelyflores.bo@gmail.com <br><br>
 ## 🤖🎨 Technologies:
  ![Postman](https://img.shields.io/badge/-Postman-FF6C37.svg?style=plastic&logo=Postman&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-Selenium-2543B02A.svg?style=plastic&logo=Selenium&logoColor=white)
- ![Cypress](https://img.shields.io/badge/-Cypress-17202C.svg?style=plastic&logo=Cypress&logoColor=white)
  ![Git](https://img.shields.io/badge/-Git-F05032.svg?style=plastic&logo=git&logoColor=white)
  ![Python](https://img.shields.io/badge/-Python-3776AB.svg?style=plastic&logo=git&logoColor=white)
  ![Java](https://img.shields.io/badge/-Java-23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
