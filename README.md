@@ -1,13 +1,9 @@
 
 
 ## 🦋 ✨ About Me:
-- 🐞 QA automation passionate about learning and professional growth.
-- 👩🏽‍💻 I’m currently learning about UI/UX and frontend development
-- ☕ I’m looking to collaborate on social projects
+- 🐞👩🏽‍💻 QA automation and Frontend dev passionate about learning.
 
 kelyflores.bo@gmail.com <br><br>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kely_florest/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kely_florest)
 
 
 ## 🤖🎨 Technologies:
