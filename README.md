@@ -13,7 +13,7 @@
 
 ## 📮 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/floreskelly/"><img src="https://img.shields.io/badge/-floreskelly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/floreskelly/"><img src="https://img.shields.io/badge/-@floreskelly-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@floreskelly/about"><img src="https://img.shields.io/badge/-@floreskelly-000000?style=flat&logo=Medium&logoColor=white"/></a>
 <a href="https://discord.com/channels/floreskelly"><img src="https://img.shields.io/badge/-@floreskelly-7289da?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="mailto:kelyflores.bo@gmail.com"><img src="https://img.shields.io/badge/kelyflores.bo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
