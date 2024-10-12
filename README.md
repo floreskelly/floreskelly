@@ -9,7 +9,7 @@
 </p>
 
 ## ✨ About me:
-🐞🎨👩🏻‍💻 QA automation and Frontend dev passionate about learning.
+🐞🎨👩🏻‍💻 I am an Automation tester and Frontend Developer with a strong passion for continuous learning and growth. Focusing on delivering efficient, high-quality solutions, I stay up-to-date with the latest technologies and practices to enhance my skills and drive good results.
 
 ## 📮 Connect with me:
 <p align="left">
