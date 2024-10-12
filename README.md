@@ -21,13 +21,14 @@
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px> Technologies:
  ![Python](https://img.shields.io/badge/-Python-7B68EE.svg?style=flat&logo=git&logoColor=white)
- ![Java](https://img.shields.io/badge/-Java-7B68EE.svg?style=flat&logo=java&logoColor=white)
- ![Postman](https://img.shields.io/badge/-Postman-7B68EE.svg?style=flat&logo=Postman&logoColor=white)
+ ![Java](https://img.shields.io/badge/-Java-7B68EE.svg?style=flat&logo=java11&logoColor=white)
  ![Selenium](https://img.shields.io/badge/-Selenium-7B68EE.svg?style=flat&logo=Selenium&logoColor=white)
- ![Cucumber](https://img.shields.io/badge/-Cucumber-7B68EE.svg?style=flat&logo=Cucumber&logoColor=white) 
+ ![Cucumber](https://img.shields.io/badge/-Cucumber-7B68EE.svg?style=flat&logo=Cucumber&logoColor=white)
+ ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-7B68EE.svg?style=flat&logo=PostgreSQL&logoColor=white)
+ ![Postman](https://img.shields.io/badge/-Postman-7B68EE.svg?style=flat&logo=Postman&logoColor=white)
 
  ![JavaScript](https://img.shields.io/badge/-JavaScript-7B68EE.svg?style=flat&logo=javascript&logoColor=white)
- ![CSS](https://img.shields.io/badge/-CSS-7B68EE.svg?style=flat&logo=css&logoColor=white)
+ ![CSS](https://img.shields.io/badge/-CSS-7B68EE.svg?style=flat&logo=css3&logoColor=white)
  ![HTML](https://img.shields.io/badge/-HTML-7B68EE.svg?style=flat&logo=html5&logoColor=white)
  ![Jquery](https://img.shields.io/badge/-Jquery-7B68EE.svg?style=flat&logo=jquery&logoColor=white)
  ![React](https://img.shields.io/badge/-React-7B68EE.svg?style=flat&logo=react&logoColor=white)
